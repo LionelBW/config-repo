@@ -12,7 +12,7 @@ eureka:
       defaultZone: http://localhost:8761/eureka/,http://localhost:8762/eureka/
 
 # 自定义配置
-name: order-service-dev-1.0
+name: order-service-dev-2.0
 # 对称加密
 passwordSymmetricEncrypt: "{cipher}aa1768c744730a0edf71328ba560712926544aa28b9bc8ee98319cdfc5936fa3"
 # 非对称加密
