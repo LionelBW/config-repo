@@ -16,3 +16,7 @@ eureka:
 
 # 自定义配置
 name: order-service-dev
+# 对称加密
+passwordSymmetricEncrypt: "{cipher}aa1768c744730a0edf71328ba560712926544aa28b9bc8ee98319cdfc5936fa3"
+# 非对称加密
+passwordAsymmetricEncrypt: "{cipher}AQB/qqz8CFdRCqxCk/6FbKt16P3EYbKAkSiizNo9bnEL0eUJB3DSoOBQWRyvZjhvK8jCG825NbdjiWoYF1pOOz3ag8nDevdURyAdbO0wbJM3RdLeLs23zxmv59O4tsNOckPn5yn8ecWcWQspGUoYFGOIWNnmLOFNvi+cSaB4dcw9uDIwdYcZea5d/1qbph6cP5cDMfz2NVB1C+arJ4PU8j1EWEjf8jXFqoU21YPMBOyKwtKY4hvljq2g8nE+qrbRXDT3qA/pheoLXkkL5QtV46+7U9sVkOkiWj3NwlOfYv8pDtnb1cOguDDAc5983nqX8nOlEjLUmJu4bc7O8DRlcahqg7Obg5FOylBf1bwAkCD5nqf+IN3EwNP7+iYYEvWdGdw="
